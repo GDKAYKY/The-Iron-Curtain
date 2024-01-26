@@ -7,7 +7,7 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
 </a>
 <div align="center">
   <a href="https://store.steampowered.com/app/2772750/Age_of_History_3/">
-    <img src="https://your-game-image-url.jpg" alt="Age of History 3" width="300">
+    <img src="[https://your-game-image-url.jpg](https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/capsule_184x69.jpg?t=1706286405)" alt="Age of History 3" width="300">
   </a>
 
 new bellow
