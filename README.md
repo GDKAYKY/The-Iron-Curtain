@@ -9,11 +9,12 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
     <div style="width: 100%; height: 80px; overflow: hidden; border-top-left-radius: 10px; border-top-right-radius: 10px;">
       <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/header.jpg?t=1706286405" alt="Age of History 3" style="width: 100%; height: 100%; object-fit: cover; border-bottom: 1px solid #fff; border-top-left-radius: 10px; border-top-right-radius: 10px;">
     </div>
-    <div style="position: absolute; bottom: 0; right: 0; background: linear-gradient(to bottom, #0077cc, #005ba1); border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; padding: 4px; color: #fff; font-size: 10px;">
-      <img src="https://img.shields.io/badge/Wishlist-Add%20to%20Wishlist-blue?style=for-the-badge&logo=steam" alt="Wishlist on Steam" style="width: 100%;">
+    <div style="position: absolute; bottom: 0; right: 0; background: #63a136; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px; padding: 4px; color: #fff; font-size: 10px;">
+      <img src="https://img.shields.io/badge/Wishlist-Add%20to%20Wishlist-green?style=for-the-badge&logo=steam" alt="Wishlist on Steam" style="width: 100%;">
     </div>
   </a>
 </div>
+
 
 
 
