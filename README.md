@@ -2,15 +2,10 @@
 Experience the tension, conflicts, and geopolitical intricacies of the time as you navigate through a detailed and immersive history. 
 **Engage in strategic gameplay that mirrors the complexities of the Cold War**, all within the captivating world of Age of History 3."
 
-<a href="https://store.steampowered.com/app/2772750/Age_of_History_3/">
-  <img src="https://img.shields.io/badge/Age_of_History_3-Play_on_Steam-informational?style=for-the-badge&logo=steam" alt="Age of History 3 on Steam">
-</a>
 <div align="center">
   <a href="https://store.steampowered.com/app/2772750/Age_of_History_3/">
     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/header.jpg?t=1706286405" alt="Age of History 3" width="300">
   </a>
-
-new bellow
   
   <br>
   <a href="https://store.steampowered.com/app/2772750/Age_of_History_3/">
