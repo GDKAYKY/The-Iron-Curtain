@@ -9,8 +9,8 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/header.jpg?t=1706286405" alt="Age of History 3" style="width: 30%; max-height: 80px; border-bottom: 1px solid #fff;">
     <div style="padding: 4px; color: #fff; font-size: 10px;">
       <h5 style="margin: 0;">AoH 3</h5>
-      <img src="https://img.shields.io/badge/Play%20on%20Steam-Get%20Game-blue?style=for-the-badge&logo=steam" alt="Age of History 3 on Steam" style="margin-top: 4px; width: 70%;">
-      <img src="https://img.shields.io/badge/Wishlist-Add%20to%20Wishlist-blue?style=for-the-badge&logo=steam" alt="Wishlist on Steam" style="margin-top: 2px; width: 70%;">
+      <img src="https://img.shields.io/badge/Play%20on%20Steam-Get%20Game-blue?style=for-the-badge&logo=steam" alt="Age of History 3 on Steam" style="margin-top: 2px; width: 60%;">
+      <img src="https://img.shields.io/badge/Wishlist-Add%20to%20Wishlist-blue?style=for-the-badge&logo=steam" alt="Wishlist on Steam" style="margin-top: 2px; width: 60%;">
     </div>
   </a>
 </div>
