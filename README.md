@@ -4,7 +4,7 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
 
 
 
-<div align="center" style="position: relative; width: 250px; height: 350px; background: linear-gradient(to bottom, #0077cc, #005ba1); border-radius: 10px; overflow: hidden;">
+<div align="center" style="position: relative; width: 150px; height: 250px; background: linear-gradient(to bottom, #0077cc, #005ba1); border-radius: 10px; overflow: hidden;">
   <a href="https://store.steampowered.com/app/2772750/Age_of_History_3/" style="text-decoration: none;">
     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/header.jpg?t=1706286405" alt="Age of History 3" style="width: 100%; max-height: 200px; border-bottom: 1px solid #fff;">
     <div style="padding: 10px; color: #fff;">
