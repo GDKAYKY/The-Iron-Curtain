@@ -53,6 +53,11 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
 				<a class="btn_addtocart_content" href="javascript:addToWishlist();" style="background-color: #5a5e68; color: #66c0f4; text-decoration: none; display: inline-block; padding: 8px 16px; border-radius: 4px; font-size: 14px;">+ Lista de desejos no Steam</a>
 			</div>
 			<div style="clear: left;"></div>
+		</div>
+	</div>
+</div>
+</body>
+
 	
 
 
