@@ -6,7 +6,7 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
 
 
 <iframe srcdoc='
-  <!-- <html><head>
+  <html><head>
 	<title>Age of History 3 no Steam</title>
 	<link href="https://store.cloudflare.steamstatic.com/public/shared/css/motiva_sans.css?v=2C1Oh9QFVTyK&amp;l=brazilian&amp;_cdn=cloudflare" rel="stylesheet" type="text/css">
 <link href="https://store.cloudflare.steamstatic.com/public/shared/css/shared_global.css?v=EOvc7MEzip3z&amp;l=brazilian&amp;_cdn=cloudflare" rel="stylesheet" type="text/css">
@@ -95,7 +95,7 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
 
 
 
-</body></html> -->
+</body></html>
 ' width="100%" height="500" frameborder="0" scrolling="no"></iframe>
 
 
