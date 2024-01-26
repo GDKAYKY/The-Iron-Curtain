@@ -6,7 +6,7 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
 
 [![Age of History 3](https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/header.jpg?t=1706286405)](https://store.steampowered.com/app/2772750/Age_of_History_3/)
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 300px; height: 120px; overflow: hidden; background: linear-gradient(to bottom, #0077cc, #005ba1); border-radius: 10px; padding: 10px;">
+<div align="center" style="width: 210px; height: 120px; overflow: hidden; background: linear-gradient(to bottom, #0077cc, #005ba1); border-radius: 10px; display: flex; align-items: center; padding: 10px;">
   <a href="https://store.steampowered.com/app/2772750/Age_of_History_3/" style="text-decoration: none;">
     <div style="width: 80px; height: 100%; overflow: hidden; border-radius: 10px;">
       <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/header.jpg?t=1706286405" alt="Age of History 3" style="width: 100%; height: 100%; object-fit: cover; border-bottom: 1px solid #fff; border-top-left-radius: 10px; border-top-right-radius: 10px;">
