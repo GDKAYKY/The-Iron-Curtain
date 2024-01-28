@@ -4,18 +4,4 @@
 
 
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-
-  <div style="flex: 1;">
-    <a href="https://drive.google.com/file/d/1AH0bJPYStjW0GmxnE5bNGXUvnmHjigWv/view?usp=sharing">
-      <img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/b908e4f3-0693-4ed4-8de5-420ef6fc95be" width="50%" alt="Windows Download">
-    </a>
-  </div>
-
-  <div style="flex: 1; margin-left: 10px;">
-    <a href="https://drive.google.com/file/d/1-2iEIaswryQDLnVpTsmiXqWURbUDLfeZ/view?usp=drivesdk">
-      <img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/043ceedf-8d06-4366-a7a8-6bf0092bdfbe" width="50%" alt="Android Download">
-    </a>
-  </div>
-
-</div>
+[![Windows Download](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/b908e4f3-0693-4ed4-8de5-420ef6fc95be)](https://drive.google.com/file/d/1AH0bJPYStjW0GmxnE5bNGXUvnmHjigWv/view?usp=sharing)[![Android Download](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/043ceedf-8d06-4366-a7a8-6bf0092bdfbe)](https://drive.google.com/file/d/1-2iEIaswryQDLnVpTsmiXqWURbUDLfeZ/view?usp=drivesdk)
