@@ -12,14 +12,7 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
       <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/header.jpg?t=1706286405" alt="Age of History 3" style="width: 100%; height: 100%; object-fit: cover; border-bottom: 1px solid #fff; border-top-left-radius: 10px; border-top-right-radius: 10px;">
     </div>
   </a>
-  <div style="flex: 1; padding-left: 10px;">
-    <h3 style="margin: 0;">Age of History 3</h3>
-    <p style="margin: 5px 0; font-size: 12px; color: #fff;">Embark on an epic journey with Age of History 3, which takes you through the vast timeline of human history. From the Age of Civilization to the realms of the far future, play as various Civilizations ranging from dominant empires to small tribes.</p>
-    <a href="https://store.steampowered.com/app/2772750/Age_of_History_3/" style="text-decoration: none; background: #1b2838; padding: 4px; color: #fff; font-size: 10px; text-align: center; border-radius: 0 0 10px 10px; display: block;">
-      Add to Wishlist
-    </a>
-  </div>
-</div>
+
 
 
 
