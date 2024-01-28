@@ -7,78 +7,7 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
 [![Age of History 3](https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/header.jpg?t=1706286405)](https://store.steampowered.com/app/2772750/Age_of_History_3/)
 
 
-### Age of History 3 - Steam Widget
-
-```html
-<iframe srcdoc='
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
-    "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-    <title>Age of History 3 no Steam</title>
-    <link href="https://store.cloudflare.steamstatic.com/public/shared/css/motiva_sans.css?v=2C1Oh9QFVTyK&amp;l=brazilian&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
-    <link href="https://store.cloudflare.steamstatic.com/public/shared/css/shared_global.css?v=EOvc7MEzip3z&amp;l=brazilian&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
-    <link href="https://store.cloudflare.steamstatic.com/public/shared/css/buttons.css?v=Grv-5yNFuEfg&amp;l=brazilian&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
-    <link href="https://store.cloudflare.steamstatic.com/public/css/v6/store.css?v=tCjSweTrY8OG&amp;l=brazilian&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
-    <link href="https://store.cloudflare.steamstatic.com/public/css/styles_widget.css?v=tDgjM59TcW-V&amp;l=brazilian&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
-    <link href="https://store.cloudflare.steamstatic.com/public/css/v6/game.css?v=Kf65ob0XMDOR&amp;l=brazilian&amp;_cdn=cloudflare" rel="stylesheet" type="text/css" >
-    <script type="text/javascript" src="https://store.cloudflare.steamstatic.com/public/shared/javascript/jquery-1.8.3.min.js?v=.TZ2NKhB-nliU&amp;_cdn=cloudflare" ></script>
-</head>
-
-<body>
-<div id="widget">
-    <div id="header" class="header_container">
-        <h1 class="main_text">
-            <a href="https://store.steampowered.com/app/2772750/Age_of_History_3/?snr=1_5_1100__1100&utm_source=steamwidget" target="_blank" rel="noreferrer">Age of History 3</a>
-        </h1><h1 class="tail">&nbsp;<a target="_blank" href="https://store.steampowered.com/app/2772750/Age_of_History_3/?snr=1_5_1100__1100&utm_source=steamwidget"><em>no Steam</em></a></h1>    </div>
-    <script type="text/javascript">
-        function ResizeText( errorMargin )
-        {
-            var containerWidth = $("#header").innerWidth();
-            var width= $("#header > .tail").outerWidth();
-            $('#header > .main_text').css( {'max-width': containerWidth - width });
-        }
-
-        $(window).load(function() {
-            ResizeText(0);
-        });
-
-        $(window).resize(function() {
-            ResizeText(0);
-        });
-    </script>
-    <div style="clear: both;"></div>
-
-    <div class="desc">
-        <a href="https://store.steampowered.com/app/2772750/Age_of_History_3/?snr=1_5_1100__1100&utm_source=steamwidget" target="_blank" rel="noreferrer"><img class="capsule"  src="https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/capsule_184x69.jpg?t=1706450779"></a>
-        Embark on an epic journey with Age of History 3, which takes you through the vast timeline of human history. From the Age of Civilization to the realms of the far future, play as various Civilizations ranging from dominant empires to small tribes.    </div>
-    <div style="clear: both;"></div>
-    <div class="game_area_purchase_platform"><span class="platform_img win"></span><span class="platform_img mac"></span></div>
-    <div class="game_purchase_action">
-        <form name="add_to_wishlist" action="https://store.steampowered.com//api/addtowishlist/" method="POST" target="_blank">
-            <input type="hidden" name="snr" value="1_5_1100_">
-            <input type="hidden" name="sessionid" value="b7dbecbd5d9fe96d3749a20b">
-            <input type="hidden" name="appid" value="2772750">
-            <input type="hidden" name="widget" value="1">
-        </form>
-        <div class="game_purchase_action_bg coming_soon">
-            <div class="coming_soon_date">
-                                <h1>Disponível: A ser anunciado</h1>
-                            </div>
-
-            <div class="btn_addtocart">
-                <a class="btn_addtocart_content" href="javascript:addToWishlist();">
-                    + Lista de desejos no Steam</a>
-            </div>
-            <div style="clear: left"></div>
-        </div>
-    </div>
-</div>
-
-</body>
-</html>' width="600" height="400" frameborder="0"></iframe>
-
-
+<iframe src="https://store.steampowered.com/widget/2772750/?t=Embark%20on%20an%20epic%20journey%20with%20Age%20of%20History%203%2C%20which%20takes%20you%20through%20the%20vast%20timeline%20of%20human%20history.%20From%20the%20Age%20of%20Civilization%20to%20the%20realms%20of%20the%20far%20future%2C%20play%20as%20various%20Civilizations%20ranging%20from%20dominant%20empires%20to%20small%20tribes." frameborder="0" width="646" height="190"></iframe>
 	
 </div>
 
