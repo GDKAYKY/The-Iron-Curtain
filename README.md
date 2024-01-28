@@ -7,3 +7,4 @@
 [<img src="[https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/ff31f26e-7f12-4072-9ba5-230a7a9ebd3e](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/dc459079-fd58-40bf-bca6-c871531f3516)" width="100" height="100">](https://drive.google.com/file/d/1AH0bJPYStjW0GmxnE5bNGXUvnmHjigWv/view?usp=sharing) WINDOWS
 
 [<img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/6a5314ca-b2e7-4d66-b9fc-83ed2d2c3fc8" width="100" height="120,92">](https://drive.google.com/file/d/1-2iEIaswryQDLnVpTsmiXqWURbUDLfeZ/view?usp=drivesdk) ANDROID
+![25 Sem Título_20240128170858](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/ec1d02b1-22c6-4966-95cc-2f8555fabf9b)
