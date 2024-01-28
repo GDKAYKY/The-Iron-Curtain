@@ -3,8 +3,14 @@
 ![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/d80ae238-7343-40bf-8200-e27d2eece330)
 
 
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
 
-[<img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/ec1d02b1-22c6-4966-95cc-2f8555fabf9b"(https://drive.google.com/file/d/1AH0bJPYStjW0GmxnE5bNGXUvnmHjigWv/view?usp=sharing)
+  <div style="flex: 1; margin-right: 20px;">
+    [<img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/ec1d02b1-22c6-4966-95cc-2f8555fabf9b" width="100" height="100">](https://drive.google.com/file/d/1AH0bJPYStjW0GmxnE5bNGXUvnmHjigWv/view?usp=sharing) WINDOWS
+  </div>
 
-[<img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/6a5314ca-b2e7-4d66-b9fc-83ed2d2c3fc8" width="100" height="120,92">](https://drive.google.com/file/d/1-2iEIaswryQDLnVpTsmiXqWURbUDLfeZ/view?usp=drivesdk) ANDROID
-![25 Sem Título_20240128170858](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/ec1d02b1-22c6-4966-95cc-2f8555fabf9b)
+  <div style="flex: 1;">
+    [<img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/315703d2-9be2-4787-8aa5-0d6ae3f32233" width="100" height="100">](https://drive.google.com/file/d/1-2iEIaswryQDLnVpTsmiXqWURbUDLfeZ/view?usp=drivesdk) ANDROID
+  </div>
+
+</div>
