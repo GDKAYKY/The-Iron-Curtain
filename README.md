@@ -2,7 +2,6 @@
 ![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/cff53bd6-9b9c-4a95-b894-20cbeade7aa2)
 ![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/d80ae238-7343-40bf-8200-e27d2eece330)
 
-
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
 
   <div style="flex: 1; margin-right: 20px;">
@@ -14,3 +13,4 @@
   </div>
 
 </div>
+
