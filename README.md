@@ -2,7 +2,8 @@
 Experience the tension, conflicts, and geopolitical intricacies of the time as you navigate through a detailed and immersive history. 
 **Engage in strategic gameplay that mirrors the complexities of the Cold War**, all within the captivating world of Age of History 3."
 
-![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/b3fa0e2b-d686-4c01-af5c-d6effa48e46e)
+![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/661a8576-59be-4390-a60c-e1b2a9ad314b)
+
 
 
 [![Age of History 3](https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/header.jpg?t=1706286405)](https://store.steampowered.com/app/2772750/Age_of_History_3/)
