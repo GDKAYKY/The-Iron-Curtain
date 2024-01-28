@@ -4,9 +4,9 @@
 
 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
 
-  <div style="flex: 1;">
+  <div style="flex: 1; margin-right: 20px;">
     [<img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/ff31f26e-7f12-4072-9ba5-230a7a9ebd3e" width="100" height="100">](https://drive.google.com/file/d/1AH0bJPYStjW0GmxnE5bNGXUvnmHjigWv/view?usp=sharing) WINDOWS
   </div>
 
@@ -15,3 +15,4 @@
   </div>
 
 </div>
+
