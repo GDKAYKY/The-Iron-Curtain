@@ -1,3 +1,5 @@
 ![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/ac79607f-548b-4538-8673-169b7767282f)
 ![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/cff53bd6-9b9c-4a95-b894-20cbeade7aa2)
 ![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/d80ae238-7343-40bf-8200-e27d2eece330)
+![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/c0a51e9a-08a6-4dce-84c4-0c83ef859d4f)
+![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/b1235807-84d9-4b89-a904-10d4fafdb02b)
