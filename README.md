@@ -6,11 +6,11 @@
 <div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
 
   <div style="flex: 1; margin-right: 20px;">
-    [<img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/ec1d02b1-22c6-4966-95cc-2f8555fabf9b" width="100" height="100">](https://drive.google.com/file/d/1AH0bJPYStjW0GmxnE5bNGXUvnmHjigWv/view?usp=sharing)
+    [<img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/ec1d02b1-22c6-4966-95cc-2f8555fabf9b"]
   </div>
 
   <div style="flex: 1;">
-    [<img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/315703d2-9be2-4787-8aa5-0d6ae3f32233" width="100" height="100">](https://drive.google.com/file/d/1-2iEIaswryQDLnVpTsmiXqWURbUDLfeZ/view?usp=drivesdk)
+    [<img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/315703d2-9be2-4787-8aa5-0d6ae3f32233"]
   </div>
 
 </div>
