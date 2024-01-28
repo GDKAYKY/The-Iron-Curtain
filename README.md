@@ -7,6 +7,7 @@ Experience the tension, conflicts, and geopolitical intricacies of the time as y
 [![Age of History 3](https://cdn.cloudflare.steamstatic.com/steam/apps/2772750/header.jpg?t=1706286405)](https://store.steampowered.com/app/2772750/Age_of_History_3/)
 
 
+![image](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/cd699877-81c4-472e-9256-573dfb5cf285)
 
 </div>
 
