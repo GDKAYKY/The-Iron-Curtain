@@ -7,7 +7,7 @@
 Downloads
 
 
-  <img src:"https://cdn.discordapp.com/attachments/1041520561639149569/1202322480270676048/26_Sem_Titulo_20240131153759.png?ex=65cd0911&is=65ba9411&hm=24fcbff9155fa4c89972648d417795e8f5e2ab20924002a221cec8d68b0f01cd&">
+  <img src="https://cdn.discordapp.com/attachments/1041520561639149569/1202322480270676048/26_Sem_Titulo_20240131153759.png?ex=65cd0911&is=65ba9411&hm=24fcbff9155fa4c89972648d417795e8f5e2ab20924002a221cec8d68b0f01cd&">
 
   <a href="https://drive.google.com/file/d/1AH0bJPYStjW0GmxnE5bNGXUvnmHjigWv/view?usp=sharing" style="flex: 1;">
     <img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/b908e4f3-0693-4ed4-8de5-420ef6fc95be" width="48%" alt="Windows Download">
