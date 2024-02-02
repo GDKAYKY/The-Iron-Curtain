@@ -17,7 +17,7 @@
     ```html
     <div style="display: flex; justify-content: center;">
     <a href="https://drive.google.com/file/d/1AH0bJPYStjW0GmxnE5bNGXUvnmHjigWv/view?usp=sharing" style="margin-right: 1em;">
-    <img src="https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/b908e4f3-0693-4ed4-8de5-420ef6fc95be" width="48%" alt="Windows Download">
+    <img src="https://github.com/GDKAYKY/The-Iron-Curtain/raw/main/assets/108950475/b908e4f3-0693-4ed4-8de5-420ef6fc95be" width="48%" alt="Windows Download">
        </a>
        end
     ```
@@ -30,5 +30,4 @@
        </a>
         </div>
 
-        end
     ```
