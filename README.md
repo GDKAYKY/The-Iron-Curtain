@@ -9,25 +9,3 @@
 * */ Features /*
 
     ![FEATURES](https://github.com/GDKAYKY/The-Iron-Curtain/assets/108950475/d80ae238-7343-40bf-8200-e27d2eece330)
-
-* */ Download Section /*
-
-  * Windows Download *
-
-    ```html
-    <div style="display: flex; justify-content: center;">
-    <a href="https://drive.google.com/file/d/1AH0bJPYStjW0GmxnE5bNGXUvnmHjigWv/view?usp=sharing" style="margin-right: 1em;">
-    <img src="https://github.com/GDKAYKY/The-Iron-Curtain/raw/main/assets/108950475/b908e4f3-0693-4ed4-8de5-420ef6fc95be" width="48%" alt="Windows Download">
-       </a>
-       end
-    ```
-
-  * Android Download *
-
-    ```markdown
-    <a href="https://drive.google.com/file/d/1-2iEIaswryQDLnVpTsmiXqWURbUDLfeZ/view?usp=drivesdk">
-      <img src="https://drive.google.com/uc?export=download&id=1-2iEIaswryQDLnVpTsmiXqWURbUDLfeZ" width="48%" alt="Android Download">
-       </a>
-        </div>
-
-    ```
