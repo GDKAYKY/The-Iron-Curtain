@@ -8,10 +8,16 @@
 
 ### •New Unit Types including
 
-    • Tanks
-    • Airplanes
-    • Motorized Infantry
-    • Strategic Missile Units
-    • Artillery
-    • Special Forces
-    • Infantry
+#### • Tanks
+
+#### • Airplanes
+
+#### • Motorized Infantry
+
+#### • Strategic Missile Units
+
+#### • Artillery
+
+#### • Special Forces
+
+#### • Infantry
