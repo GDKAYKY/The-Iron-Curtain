@@ -6,15 +6,9 @@
 
 ### •Real Events of the Cold War, including major tension points like the Cuban Missile Crisis
 
-### •New Unit Types including
+### New Unit Types including
 
  - Tanks
- - Airplanes
- - Motorized Infantry
- - Strategic Missile Units
- - Artillery
- - Special Forces
- - Infantry
  - Airplanes
  - Motorized Infantry
  - Strategic Missile Units
