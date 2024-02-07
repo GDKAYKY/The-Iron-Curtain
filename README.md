@@ -1,6 +1,6 @@
 # The Iron Curtain
 
-![The Iron Curtain: Cold War Mod](https://github.com/GDKAYKY/The-Iron-Curt/assets/1895045/ac79607f-548b-453-8673-169b7767282f)
+![The Iron Curtain: Cold War Mod](https://github.com/GDKAYKY/The-Iron-Curtain/assets/1895045/ac79607f-548b-453-8673-169b7767282f)
 
 ## Main Section
 
