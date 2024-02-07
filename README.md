@@ -6,7 +6,7 @@
 
 ### *Real Events of the Cold War, including major tension points like the Cuban Missile Crisis
 
-### *New unit types including
+## *New unit types including
 
     * Tanks
     * Airplanes
