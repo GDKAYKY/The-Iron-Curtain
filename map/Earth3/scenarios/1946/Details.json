@@ -1,0 +1,21 @@
+{
+Name: "1946",
+Author: "The Iron Curtain:1946",
+Civs: 163,
+Age: 8,
+Day: 1,
+Month: 1,
+Year: 1946,
+Campaign: false,
+CivDefault_Gold: 1000,
+CivDefault_GoldRandom: 501,
+CivDefault_Legacy: 175,
+CivDefault_LegacyRandom: 75,
+CivDefault_ManpowerPercentage: 100,
+CivDefault_Technology: 73,
+ProvinceDefault_Population: 600000,
+ProvinceDefault_Economy: 36,
+ProvinceDefault_TaxEfficiency: 28,
+ProvinceDefault_Manpower: 82,
+HoursPerTurn: 1
+}

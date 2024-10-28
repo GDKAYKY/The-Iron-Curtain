@@ -1,0 +1,52 @@
+[
+{
+	ProvinceID: 2852,
+	UnitTypeID: [ 0, 0 ],
+	ArmyID: [ 10, 10 ]
+},
+{
+	ProvinceID: 6001,
+	UnitTypeID: [ 0, 0 ],
+	ArmyID: [ 10, 10 ]
+},
+{
+	ProvinceID: 6280,
+	UnitTypeID: [ 0, 0 ],
+	ArmyID: [ 10, 10 ]
+},
+{
+	ProvinceID: 6314,
+	UnitTypeID: [ 0, 0 ],
+	ArmyID: [ 10, 10 ]
+},
+{
+	ProvinceID: 6315,
+	UnitTypeID: [ 0, 0 ],
+	ArmyID: [ 10, 10 ]
+},
+{
+	ProvinceID: 6408,
+	UnitTypeID: [ 0, 0 ],
+	ArmyID: [ 10, 10 ]
+},
+{
+	ProvinceID: 6410,
+	UnitTypeID: [ 0, 0 ],
+	ArmyID: [ 10, 10 ]
+},
+{
+	ProvinceID: 6411,
+	UnitTypeID: [ 0, 0 ],
+	ArmyID: [ 10, 10 ]
+},
+{
+	ProvinceID: 6412,
+	UnitTypeID: [ 0, 0 ],
+	ArmyID: [ 10, 10 ]
+},
+{
+	ProvinceID: 6416,
+	UnitTypeID: [ 0, 0 ],
+	ArmyID: [ 10, 10 ]
+}
+]
