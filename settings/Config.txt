@@ -1,0 +1,4 @@
+FULLSCREEN=true;
+WIDTH=1366;
+HEIGHT=768;
+VSYNC=false;
