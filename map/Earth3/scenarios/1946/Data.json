@@ -4,21 +4,21 @@
 	CivID: 1,
 	PCID: 1,
 	CPID: 11,
-	Population: 7755423 
+	Population: 7755423
 },
 {
 	CivTAG: "and_m",
 	CivID: 2,
 	PCID: 2,
 	CPID: 55,
-	Population: 5500 
+	Population: 5500
 },
 {
 	CivTAG: "spa_f",
 	CivID: 3,
 	PCID: 3,
 	CPID: 6561,
-	Population: 26941000 
+	Population: 26941000
 },
 {
 	CivTAG: "lux_m",
@@ -720,7 +720,7 @@
 	CPID: 11207
 },
 {
-	CivTAG: "estt",
+	CivTAG: "estt_a",
 	CivID: 106,
 	PCID: 106,
 	CPID: 10775,
@@ -739,37 +739,37 @@
 	CPID: 6248
 },
 {
-	CivTAG: "kweiclique",
+	CivTAG: "kweiclique_a",
 	CivID: 109,
 	PCID: 108,
 	CPID: 2782
 },
 {
-	CivTAG: "ningma",
+	CivTAG: "ningma_a",
 	CivID: 110,
 	PCID: 108,
 	CPID: 6303
 },
 {
-	CivTAG: "tsingma",
+	CivTAG: "tsingma_a",
 	CivID: 111,
 	PCID: 108,
 	CPID: 11260
 },
 {
-	CivTAG: "kangclique",
+	CivTAG: "kangclique_a",
 	CivID: 112,
 	PCID: 108,
 	CPID: 11249
 },
 {
-	CivTAG: "jinclique",
+	CivTAG: "jinclique_a",
 	CivID: 113,
 	PCID: 108,
 	CPID: 6436
 },
 {
-	CivTAG: "sovietman",
+	CivTAG: "sovietman_ma",
 	CivID: 114,
 	PCID: 22,
 	CPID: 11099
@@ -800,13 +800,13 @@
 	Population: 70000000
 },
 {
-	CivTAG: "max_n",
+	CivTAG: "max_ma",
 	CivID: 119,
 	PCID: 12,
 	CPID: 1582
 },
 {
-	CivTAG: "bmaborneo",
+	CivTAG: "bmaborneo_ma",
 	CivID: 120,
 	PCID: 12,
 	CPID: 1476
@@ -824,7 +824,7 @@
 	CPID: 2412
 },
 {
-	CivTAG: "fezgad",
+	CivTAG: "fezgad_ma",
 	CivID: 123,
 	PCID: 149,
 	CPID: 1365,
@@ -837,37 +837,37 @@
 	CPID: 1357
 },
 {
-	CivTAG: "fger",
+	CivTAG: "fger_ma",
 	CivID: 125,
 	PCID: 149,
 	CPID: 747
 },
 {
-	CivTAG: "bmager",
+	CivTAG: "bmager_ma",
 	CivID: 126,
 	PCID: 12,
 	CPID: 739
 },
 {
-	CivTAG: "usger",
+	CivTAG: "usger_ma",
 	CivID: 127,
 	PCID: 20,
 	CPID: 716
 },
 {
-	CivTAG: "sovietger",
+	CivTAG: "sovietger_ma",
 	CivID: 128,
 	PCID: 22,
 	CPID: 592
 },
 {
-	CivTAG: "sovietaustria",
+	CivTAG: "sovietaustria_ma",
 	CivID: 129,
 	PCID: 22,
 	CPID: 688
 },
 {
-	CivTAG: "usaustria",
+	CivTAG: "usaustria_ma",
 	CivID: 130,
 	PCID: 20,
 	CPID: 6917
@@ -886,13 +886,13 @@
 	Population: 150000
 },
 {
-	CivTAG: "bmaogahaud",
+	CivTAG: "bmaogahaud_ma",
 	CivID: 133,
 	PCID: 12,
 	CPID: 4301
 },
 {
-	CivTAG: "bmaeri",
+	CivTAG: "bmaeri_ma",
 	CivID: 134,
 	PCID: 12,
 	CPID: 4599
@@ -952,19 +952,19 @@
 	CPID: 5198
 },
 {
-	CivTAG: "bmaaustria",
+	CivTAG: "bmaaustria_ma",
 	CivID: 144,
 	PCID: 12,
 	CPID: 699
 },
 {
-	CivTAG: "faustria",
+	CivTAG: "faustria_ma",
 	CivID: 145,
 	PCID: 149,
 	CPID: 537
 },
 {
-	CivTAG: "sovietkor",
+	CivTAG: "sovietkor_ma",
 	CivID: 146,
 	PCID: 22,
 	CPID: 3453

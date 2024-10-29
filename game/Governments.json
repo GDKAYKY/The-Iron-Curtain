@@ -710,6 +710,45 @@
 			AI_BUILD_BUILDING: 100,
 		},
 		{
+			Name: "Military Administration",
+			Extra_Tag: "ma",
+			GOV_GROUP_ID: 2,
+			
+			RulerTitle: Chief Administrator,
+			RulerRoman: true,
+			KingsImages: true,
+			
+			Color: [130, 81, 60],
+			
+			REQUIRED_TECHNOLOGY: -1,
+			
+			REVOLUTIONISTS: false,
+			TRIBAL: false,
+			MUST_BE_CHANGED: false,
+			STARTING_ARMY: 1.0,
+			
+			UnitsAttack: 2,
+			MaxManpower: 5000,
+			RecruitArmyCost: -10,
+			
+			AI_EXTRA_AGGRESSIVENESS: 0,
+			
+			AI_PEACE_ORDER_CHANCE: 85,
+			AI_PEACE_ORDER_CHANCE2: 15,
+			
+			AI_PEACE_ORDER: [0, 2, 1, 4, 5, 7, 8, 3, 6],
+			AI_PEACE_ORDER2: [0, 1, 2, 3, 5, 7, 8, 4, 6],
+			
+			AI_BUILD_SCORE: [60, 50, 30, 40, 35, 75, 80, 65, 40, 55, 72, 50, 25, 70, 40, 0],
+			
+			AI_BUILD_INVEST_IN_ECONOMY: 32,
+			AI_BUILD_INCREASE_TAX_EFFICIENCY: 42,
+			AI_BUILD_INCREASE_MANPOWER: 53,
+			AI_BUILD_INCREASE_GROWTH_RATE: 61,
+			AI_BUILD_DEVELOP_INFRASTRUCTURE: 68,
+			AI_BUILD_BUILDING: 100,
+		},
+		{
 			Name: "Rebels",
 			Extra_Tag: "u",
 			GOV_GROUP_ID: 4,
