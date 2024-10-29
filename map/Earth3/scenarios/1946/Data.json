@@ -4,21 +4,21 @@
 	CivID: 1,
 	PCID: 1,
 	CPID: 11,
-	Population: 10467366
+	Population: 7755423 
 },
 {
 	CivTAG: "and_m",
 	CivID: 2,
 	PCID: 2,
 	CPID: 55,
-	Population: 85101
+	Population: 5500 
 },
 {
 	CivTAG: "spa_f",
 	CivID: 3,
 	PCID: 3,
 	CPID: 6561,
-	Population: 48592909
+	Population: 26941000 
 },
 {
 	CivTAG: "lux_m",
@@ -32,21 +32,21 @@
 	CivID: 5,
 	PCID: 5,
 	CPID: 832,
-	Population: 11820117
+	Population: 8512000
 },
 {
 	CivTAG: "net_n",
 	CivID: 6,
 	PCID: 6,
 	CPID: 6502,
-	Population: 17967505
+	Population: 8539000
 },
 {
 	CivTAG: "pol_c",
 	CivID: 7,
 	PCID: 7,
 	CPID: 1276,
-	Population: 37620000,
+	Population: 24147000,
 	Economy: 22,
 	TaxEff: 17
 },
@@ -55,21 +55,21 @@
 	CivID: 8,
 	PCID: 8,
 	CPID: 307,
-	Population: 40023
+	Population: 15094
 },
 {
 	CivTAG: "san_q",
 	CivID: 9,
 	PCID: 9,
 	CPID: 181,
-	Population: 33916
+	Population: 12170
 },
 {
 	CivTAG: "ita_q",
 	CivID: 10,
 	PCID: 10,
 	CPID: 6881,
-	Population: 58972265,
+	Population: 46188000,
 	Economy: 16,
 	TaxEff: 12
 },
@@ -78,14 +78,14 @@
 	CivID: 11,
 	PCID: 11,
 	CPID: 134,
-	Population: 38367
+	Population: 7500
 },
 {
 	CivTAG: "uni_m",
 	CivID: 12,
 	PCID: 12,
 	CPID: 825,
-	Population: 67596281,
+	Population: 41863000,
 	NRL: 1
 },
 {
@@ -93,7 +93,7 @@
 	CivID: 13,
 	PCID: 13,
 	CPID: 920,
-	Population: 5281600
+	Population: 2960000
 },
 {
 	CivTAG: "den_n",
