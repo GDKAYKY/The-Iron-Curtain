@@ -151,6 +151,16 @@
 			"ReignYear": 1920
 		},
 		{
+			"Name": "Zoltán Tildy",
+			"ImageID": 333,
+			
+			"BornDay": 18,
+			"BornMonth": 11,
+			"BornYear": 1889,
+			
+			"ReignYear": 1945
+		},
+		{
 			Name: "Tamas Sulyok",
 			ImageID: 104,
 			

@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Edvard Beneš",
+			ImageID: 331,
+			
+			BornDay: 28,
+			BornMonth: 3,
+			BornYear: 1884,
+			
+			ReignYear: 1921,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

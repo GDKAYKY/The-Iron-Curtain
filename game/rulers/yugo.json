@@ -10,6 +10,16 @@
 			
 			ReignYear: 1934,
 		},
+		{
+			Name: "Josip Broz Tito",
+			ImageID: 338,
+			
+			BornDay: 7,
+			BornMonth: 5,
+			BornYear: 1892,
+			
+			ReignYear: 1944,
+		},
 	],
 	
 	Age_of_History: Rulers

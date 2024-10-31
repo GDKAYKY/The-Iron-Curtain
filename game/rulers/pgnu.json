@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Boleslaw Bierut",
+			ImageID: 330,
+			
+			BornDay: 18,
+			BornMonth: 4,
+			BornYear: 1892,
+			
+			ReignYear: 1945,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

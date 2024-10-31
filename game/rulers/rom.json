@@ -11,6 +11,16 @@
 			ReignYear: 1934,
 		},
 		{
+			Name: "Petru Groza",
+			ImageID: 334,
+			
+			BornDay: 7,
+			BornMonth: 12,
+			BornYear: 1884,
+			
+			ReignYear: 1944,
+		},
+		{
 			Name: "Klaus Iohannis",
 			ImageID: 169,
 			
