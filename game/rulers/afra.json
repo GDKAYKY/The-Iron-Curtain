@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Pierre Charles Cournarie",
+			ImageID: 339,
+			
+			BornDay: 26,
+			BornMonth: 8,
+			BornYear: 1895,
+			
+			ReignYear: 1943,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

@@ -10,6 +10,16 @@
 			
 			ReignYear: 2019,
 		},
+		{
+			Name: "Slaheddine Baccouche",
+			ImageID: 341,
+			
+			BornDay: 14,
+			BornMonth: 8,
+			BornYear: 1883,
+			
+			ReignYear: 1943,
+		},
 	],
 	
 	Age_of_History: Rulers

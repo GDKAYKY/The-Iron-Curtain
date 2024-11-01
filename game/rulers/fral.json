@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Yves Jean Joseph Chataigneau",
+			ImageID: 340,
+			
+			BornDay: 22,
+			BornMonth: 9,
+			BornYear: 1891,
+			
+			ReignYear: 1943,
+		},
+	],
+	
+	Age_of_History: Rulers
+}
