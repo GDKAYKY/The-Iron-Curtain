@@ -1,0 +1,16 @@
+{
+	Rulers: [
+		{
+			Name: "Charles de Gaulle",
+			ImageID: 342,
+			
+			BornDay: 22,
+			BornMonth: 11,
+			BornYear: 1890,
+			
+			ReignYear: 1944,
+		},
+	],
+	
+	Age_of_History: Rulers
+}

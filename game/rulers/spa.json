@@ -21,6 +21,16 @@
 			ReignYear: 1931,
 		},
 		{
+			Name: "Francisco Franco",
+			ImageID: 344,
+			
+			BornDay: 4,
+			BornMonth: 12,
+			BornYear: 1882,
+			
+			ReignYear: 1936,
+		},
+		{
 			Name: "Felipe VI",
 			ImageID: 190,
 			

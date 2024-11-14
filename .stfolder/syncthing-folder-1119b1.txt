@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: the-iron-curtain
+created: 2024-11-03T13:33:35-03:00

@@ -21,6 +21,16 @@
 			ReignYear: 1922,
 		},
 		{
+			Name: "Umberto II",
+			ImageID: 343,
+			
+			BornDay: 15,
+			BornMonth: 9,
+			BornYear: 1904,
+			
+			ReignYear: 1946,
+		},
+		{
 			Name: "Sergio Mattarella",
 			ImageID: 112,
 			

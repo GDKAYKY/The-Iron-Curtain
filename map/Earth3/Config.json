@@ -42,6 +42,6 @@
 	DRAW_ARMY_MIN_SCALE: 0.5,
 	DRAW_OCCUPIED_SCALE: 4.0,
 	
-	DefaultScenario: "1440",
+	DefaultScenario: "1946",
 	Wiki: "Earth",
 }

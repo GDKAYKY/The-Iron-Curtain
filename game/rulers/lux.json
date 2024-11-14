@@ -11,6 +11,16 @@
 			ReignYear: 1926,
 		},
 		{
+			Name: "Pierre Dupong",
+			ImageID: 345,
+			
+			BornDay: 1,
+			BornMonth: 11,
+			BornYear: 1885,
+			
+			ReignYear: 1937,
+		},
+		{
 			Name: "Henri",
 			ImageID: 129,
 			
